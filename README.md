@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boranstars
-- 👀 I’m interested in Programming, Deep Learing, AI
+- 👀 I’m interested in Programming, Deep Learning, AI
 - 🌱 I’m currently learning C++, Java, Python, PHP, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : boranyang@whut.edu.cn
