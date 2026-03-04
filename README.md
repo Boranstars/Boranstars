@@ -32,5 +32,6 @@
 - See my projects?
 
 ## 📊 GitHub Analytics  
+![GitHubCard](https://githubcard.com/Boranstars.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boranstars&layout=compact&theme=nightowl&hide=html,css)](https://github.com/Boranstars)  
 [![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Boranstars&theme=react&mode=weekly&background=0D1117)](https://git.io/streak-stats)
