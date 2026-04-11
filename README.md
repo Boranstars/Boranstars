@@ -10,7 +10,7 @@
 ## 🔧 Tech Stack  
 **Languages**: `C/C++` (Embedded) | `Python` (AI/ML) | `Rust` (Low-level)  
 **Platforms**: `Linux` | `FreeRTOS` | `STM32`  
-**Tools**: `Keil` | `GDB` | `OpenOCD` | `ONNX Runtime`  
+**Tools**: `Keil` | `GDB` | `OpenOCD` | `ONNX Runtime`｜`TensorRT`
 
 ## 🌱 Learning Journey  
 ✅ **Mastered**  
@@ -19,9 +19,9 @@
 - ONNX model quantization for edge devices  
 
 🚧 **Currently Exploring**  
-- Custom RTOS development (x86/ARM dual-boot)  
-- Linux kernel driver development  
-- TinyML on MAIXCAM  
+- **Edge AI Deployment**: Optimizing vision models on **NVIDIA Jetson** using **TensorRT** (INT8 Quantization & CUDA acceleration).
+- **Linux Kernel**: Diving into device tree overlays and character driver development.
+
 
 
 ## 📫 Let's Connect  
@@ -32,6 +32,5 @@
 - See my projects?
 
 ## 📊 GitHub Analytics  
-![GitHubCard](https://githubcard.com/Boranstars.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boranstars&layout=compact&theme=nightowl&hide=html,css)](https://github.com/Boranstars)  
+![GitHubCard](https://githubcard.com/Boranstars.svg) 
 [![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Boranstars&theme=react&mode=weekly&background=0D1117)](https://git.io/streak-stats)
